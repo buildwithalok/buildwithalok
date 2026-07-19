@@ -1,104 +1,109 @@
+<h1 align="center">Hi 👋, I'm Alok Kumar</h1>
+
+<h3 align="center">
+Flutter Developer • AI Enthusiast • Android App Developer
+</h3>
+
 <p align="center">
-  <img src="assets/banner.png" alt="BuildWithAlok Banner" width="100%">
+Building AI-powered mobile applications that solve real-world problems.
 </p>
 
-<div align="center">
+---
 
-# 👋 Hi, I'm Alok Kumar
+## 🚀 Current Focus
 
-### 🚀 Flutter Developer • 🤖 AI Enthusiast • 📱 Android App Developer
-
-Building AI-powered mobile applications that solve real-world problems.
+- 🛡️ AI-powered Personal Safety Applications
+- 📈 Trading Technology & Market Analytics
+- 💊 Healthcare & Medication Management
+- 🤖 Artificial Intelligence & Mobile Innovation
 
 ---
 
-### 🌟 Current Focus
+## 👨‍💻 About Me
 
-🛡️ Personal Safety AI • 📈 Trading Technology • 💊 Healthcare Apps • 🤖 Artificial Intelligence
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-* 🔭 Currently building AI-powered Flutter applications
-* 🌱 Learning Artificial Intelligence, Machine Learning & Secure Mobile Development
-* 💡 Passionate about solving real-world problems using technology
-* 🎯 Goal: Build products used by millions of people
+- 🔭 Building modern Flutter applications powered by AI
+- 🌱 Learning Artificial Intelligence, Machine Learning and Secure Mobile Development
+- 💡 Passionate about creating technology that solves real-world problems
+- 🎯 Goal: Build scalable products used by millions of people
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🤖 TradePilot AI
-
-AI-powered intraday trading assistant with intelligent market analysis and modern Flutter UI.
+### 📈 TradePilot AI
+AI-powered intraday trading assistant featuring market analysis, technical insights and an intuitive Flutter interface.
 
 ### 🛡️ GuardianEye AI
-
-Privacy-first emergency and personal safety application with intelligent assistance features.
+A privacy-first emergency and personal safety application with intelligent assistance and real-time safety features.
 
 ### 💊 MediCare Pro
-
-Smart medicine reminder and medication management application.
+A smart medicine reminder and healthcare management application for improving medication adherence.
 
 ### 🔍 AI Reality Checker
-
-Application designed to help verify digital content and detect misinformation.
-
----
-
-# 💻 Tech Stack
-
-**Mobile Development**
-
-* Flutter
-* Dart
-* Android
-
-**Programming**
-
-* Java
-* Python
-
-**Backend**
-
-* Flask
-* REST APIs
-
-**Database**
-
-* SQLite
-* Firebase
-* Firestore
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-* Android Studio
+An AI-assisted application designed to verify digital content and help identify misinformation.
 
 ---
 
-# 📚 Currently Learning
+## 💻 Tech Stack
 
-* Artificial Intelligence
-* Machine Learning
-* Computer Vision
-* Flutter Architecture
-* Cyber Security
-* Trading Systems
+### 📱 Mobile Development
+
+- Flutter
+- Dart
+- Android
+
+### 💻 Programming Languages
+
+- Python
+- Java
+
+### ⚙️ Backend
+
+- Flask
+- REST APIs
+
+### 🗄️ Database
+
+- SQLite
+- Firebase
+- Firestore
+
+### 🛠️ Tools
+
+- Git
+- GitHub
+- Android Studio
+- VS Code
 
 ---
 
-# 🎯 2026 Goals
+## 📚 Currently Learning
 
-* ✅ Publish production-ready Android applications
-* 🚀 Build useful AI products
-* 🌍 Contribute to open-source
-* 📈 Grow as a Flutter & AI Developer
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Flutter Architecture
+- Cyber Security
+- Trading Systems
+
+---
+
+## 🎯 Goals for 2026
+
+- 🚀 Publish production-ready Android applications
+- 🤖 Build impactful AI-powered products
+- 🌍 Contribute to open-source projects
+- 📈 Grow as a Flutter & AI Developer
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+If you like my work, consider starring my repositories.
+</p>
 
 ---
 
