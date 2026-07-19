@@ -109,8 +109,3 @@ If you like my work, consider starring my repositories.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
-</div>
