@@ -16,6 +16,26 @@ Building AI-powered mobile applications that solve real-world problems.
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;AI+Enthusiast;Android+App+Developer;Building+Real-World+AI+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
+<p align="center">
+
+<a href="https://alok-portfolio-a7b7e.web.app">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/buildwithalok/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kumaralok23235@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/919931339900">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
 ---
 
 # 🚀 Current Focus
@@ -33,6 +53,8 @@ Building AI-powered mobile applications that solve real-world problems.
 - 🌱 Learning Artificial Intelligence, Machine Learning & Secure Mobile Development
 - 💡 Passionate about solving real-world problems using technology
 - 🎯 Goal: Build products used by millions of people
+- 📍 Based in Bilaspur, Chhattisgarh, India
+- 🌐 Portfolio: [alok-portfolio-a7b7e.web.app](https://alok-portfolio-a7b7e.web.app)
 
 ---
 
@@ -174,6 +196,22 @@ AI-assisted application that helps verify digital content and detect misinformat
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/buildwithalok/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://alok-portfolio-a7b7e.web.app">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:kumaralok23235@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/919931339900">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -197,4 +235,3 @@ AI-assisted application that helps verify digital content and detect misinformat
 If you like my work, don't forget to ⭐ my repositories.
 
 </p>
-
